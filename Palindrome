@@ -9,3 +9,6 @@ def isPalindrome(x):
         x = x // 10
     return original == reverse
 print(isPalindrome(121))
+
+#OUTPUT
+True
